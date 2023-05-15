@@ -1,2 +1,4 @@
 # expert-spork 
-## This is my 
+## This is my project set 
+
+The first project is a
